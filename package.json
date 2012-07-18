@@ -1,20 +1,14 @@
 {
   "name": "ttfinfo",
-  "description": "Extract metadata from ttf files.",
-  "keywords": [
-    "ttf"
-  ],
-  "version": "0.1",
-  "homepage": "http://github.com/trevordixon/ttfinfo",
-  "author": {
-    "name": "Trevor Dixon",
-    "email": "trevordixon@gmail.com"
-  },
+  "version": "0.1.0",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/trevordixon/ttfinfo.git"
   },
-  "dependencies": {},
-  "bugs": "http://github.com/trevordixon/ttfinfo/issues",
-  "_id": "ttfinfo@0.1"
+  "keywords": [
+    "ttf"
+  ],
+  "author": "Trevor Dixon <trevordixon@gmail.com>",
+  "license": "MIT"
 }
