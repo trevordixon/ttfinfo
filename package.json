@@ -9,6 +9,13 @@
   "keywords": [
     "ttf"
   ],
-  "author": "Trevor Dixon <trevordixon@gmail.com>",
-  "license": "MIT"
+  "author": {
+    "name": "Trevor Dixon",
+    "email": "trevordixon@gmail.com"
+  },
+  "license": "MIT",
+  "readme": "ERROR: No README.md file found!",
+  "_id": "ttfinfo@0.1.0",
+  "description": "ERROR: No README.md file found!",
+  "_from": "ttfinfo"
 }
