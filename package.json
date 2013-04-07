@@ -14,8 +14,5 @@
     "email": "trevordixon@gmail.com"
   },
   "license": "MIT",
-  "readme": "ERROR: No README.md file found!",
-  "_id": "ttfinfo@0.1.0",
-  "description": "ERROR: No README.md file found!",
-  "_from": "ttfinfo"
+  "description": "Extracts metadata from a ttf file."
 }
