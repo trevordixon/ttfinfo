@@ -9,6 +9,10 @@
   "keywords": [
     "ttf"
   ],
-  "author": "Trevor Dixon <trevordixon@gmail.com>",
-  "license": "MIT"
+  "author": {
+    "name": "Trevor Dixon",
+    "email": "trevordixon@gmail.com"
+  },
+  "license": "MIT",
+  "description": "Extracts metadata from a ttf file."
 }
