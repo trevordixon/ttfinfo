@@ -1,3 +1,5 @@
+# ttfinfo
+
 Extracts metadata from a ttf file. Ported from PHP at http://stackoverflow.com/questions/5668901/php-how-to-read-title-of-font-from-ttf-file.
 
 Use like:
