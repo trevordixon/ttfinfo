@@ -4,9 +4,9 @@ Extracts metadata from a ttf file. Ported from PHP at http://stackoverflow.com/q
 
 Use like:
 
-var ttfInfo = require('ttfinfo');
-ttfInfo('Fonts/Aaargh.ttf', function(err, info) {
-       console.log(info);
-});
+    var ttfInfo = require('ttfinfo');
+    ttfInfo('Fonts/Aaargh.ttf', function(err, info) {
+         console.log(info);
+    });
 
 As an alternative to providing a path to your ttf file, you can pass in a buffer.
