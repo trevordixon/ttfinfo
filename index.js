@@ -1,5 +1,5 @@
 const fs            = require('fs'),
-      nameTable     = require('./tableName')
+      nameTable     = require('./tableName'),
       postTable     = require('./tablePost'),
       os2Table      = require('./tableOS2');
 
